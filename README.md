@@ -8,16 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=I+love+building+cool+projects+🚀;Learning+Web+Dev%2C+Node.js+%26+more+💻;" />
 </p>
 
+
+---
+
+## 👨‍💻 About Me
+
 <!--gif frieren-->
 <p align="right">
   <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" alt="Frieren Anime Banner" width="25%" />
 </p>
 
-
-
----
-
-## 👨‍💻 About Me
 
 - 🔭 Currently focused on: **Lamongan Specialty Souvenir Website**  
 - 🌱 Currently learning: `React`, `Tailwind CSS`, `PHP`, and `PostgreSQL`  
