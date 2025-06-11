@@ -13,22 +13,24 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="80%">
-      
-- 🔭 Currently focused on: **Lamongan Specialty Souvenir Website**  
-- 🌱 Currently learning: `React`, `Tailwind CSS`, `PHP`, and `PostgreSQL`  
-- 💬 Ask me anything about programming, I'm open to discussions!  
-- 📫 Email: `fitordf@gmail.com`  
-- ⚡ Fun fact: My curiosity never stops — I want to know everything!
-
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" width="120px" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; background-color: #f9f9f9; width: 90%;">
+    <tr>
+      <td valign="top" width="65%" style="padding: 15px;">
+        <ul>
+          <li>🔭 <strong>Currently focused on:</strong> Lamongan Specialty Souvenir Website</li>
+          <li>🌱 <strong>Currently learning:</strong> <code>React</code>, <code>Tailwind CSS</code>, <code>PHP</code>, and <code>PostgreSQL</code></li>
+          <li>💬 <strong>Ask me anything</strong> about programming — I'm open to discussions!</li>
+          <li>📫 <strong>Email:</strong> <code>fitordf@gmail.com</code></li>
+          <li>⚡ <strong>Fun fact:</strong> My curiosity never stops — I want to know everything!</li>
+        </ul>
+      </td>
+      <td align="center" width="35%" style="padding: 15px;">
+        <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" width="180px" alt="Frieren GIF" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
