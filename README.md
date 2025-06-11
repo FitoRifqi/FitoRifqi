@@ -18,7 +18,7 @@
     <tr>
       <td valign="top" width="65%" style="padding: 15px;">
         <ul>
-          <li>🔭 <strong>Currently focused on:</strong> Lamongan Specialty Souvenir Website</li>
+          <li>🔭 <strong>Currently focused on:</strong> Website Oleh Oleh Lamongan</li>
           <li>🌱 <strong>Currently learning:</strong> <code>React</code>, <code>Tailwind CSS</code>, <code>PHP</code>, and <code>PostgreSQL</code></li>
           <li>💬 <strong>Ask me anything</strong> about programming — I'm open to discussions!</li>
           <li>📫 <strong>Email:</strong> <code>fitordf@gmail.com</code></li>
