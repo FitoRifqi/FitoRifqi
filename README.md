@@ -1,6 +1,9 @@
 <!--gif frieren-->
 <p align="center">
-  <img src="https://tenor.com/view/frieren-sousou-no-frieren-frieren-at-the-funeral-frieren-beyond-journey-s-end-gif-14321694336963260870.gif" alt="Frieren Anime Banner" width="100%" />
+  <img src="<p align="center">
+  <img src="https://media.tenor.com/_WZmsgc3FEIAAAAd/frieren-sousou-no-frieren.gif" alt="Frieren Anime Banner" style="max-width:100%; height:auto;" />
+</p>
+" alt="Frieren Anime Banner" width="100%" />
 </p>
 
 
