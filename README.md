@@ -4,5 +4,5 @@
 # Hai, saya Fito Rifqi 👋
 *Fullstack Developer from Surabaya 🇮🇩*
 
-🔭 Sedang belajar...
+🔭 Sedang belajar untuk menjadi developer
 🌱 Skills: JavaScript • React • Node.js • Docker
