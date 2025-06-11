@@ -16,7 +16,7 @@
 - 🔭 Saat ini sedang fokus di proyek: **Website Oleh-Oleh Khas Lamongan**  
 - 🌱 Sedang belajar: `React`, `Tailwind CSS`, `PHP`, dan `PostgreSQL`  
 - 💬 Tanyakan apa saja tentang pemrograman, saya terbuka untuk diskusi!  
-- 📫 Email: `fitorifqi@gmail.com`  
+- 📫 Email: `fitordf@gmail.com`  
 - ⚡ Fun fact: Saya suka memvisualisasikan data dan membuat sistem admin rapi 😎  
 
 ---
