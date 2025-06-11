@@ -1,5 +1,5 @@
 <!--gif frieren-->
-<p align="center">
+<p align="right">
   <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" alt="Frieren Anime Banner" width="25%" />
 </p>
 
