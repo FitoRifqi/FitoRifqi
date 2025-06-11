@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=I+love+building+cool+projects+🚀;Learning+Web+Dev%2C+Node.js+%26+more+💻;" />
 </p>
 
+<!--gif frieren-->
+<p align="center">
+  <img src="https://tenor.com/view/frieren-sousou-no-frieren-frieren-at-the-funeral-frieren-beyond-journey-s-end-gif-14321694336963260870.gif" alt="Frieren Anime Banner" width="100%" />
+</p>
+
 
 ---
 
