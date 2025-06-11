@@ -3,28 +3,25 @@
   <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" alt="Frieren Anime Banner" width="25%" />
 </p>
 
-
-<!-- Header Banner: Putih-Ungu -->
+<!-- Header Banner: White-Purple -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:E0E7FF&height=200&section=header&text=Hi,%20I'm%20Fito%20Rifqi%20👋&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Technology%20Enthusiast&descAlignY=60&descAlign=50&descFontColor=ffffff" />
 </p>
 
-<!-- Typing Effect: Ungu -->
+<!-- Typing Effect: Purple -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=I+love+building+cool+projects+🚀;Learning+Web+Dev%2C+Node.js+%26+more+💻;" />
 </p>
 
-
-
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
-- 🔭 Saat ini sedang fokus di proyek: **Website Oleh-Oleh Khas Lamongan**  
-- 🌱 Sedang belajar: `React`, `Tailwind CSS`, `PHP`, dan `PostgreSQL`  
-- 💬 Tanyakan apa saja tentang pemrograman, saya terbuka untuk diskusi!  
+- 🔭 Currently focused on: **Lamongan Specialty Souvenir Website**  
+- 🌱 Currently learning: `React`, `Tailwind CSS`, `PHP`, and `PostgreSQL`  
+- 💬 Ask me anything about programming, I'm open to discussions!  
 - 📫 Email: `fitordf@gmail.com`  
-- ⚡ Fun fact: Rasa ingin tahu saya tidak bisa berhenti, saya ingin tahu semua hal!
+- ⚡ Fun fact: My curiosity never stops — I want to know everything!
 
 ---
 
@@ -65,7 +62,7 @@
 
 ---
 
-## 🤝 Terhubung dengan Saya
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fito-rifqi-a904a933b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -75,4 +72,4 @@
 
 ---
 
-<p align="center">✨ Terima kasih sudah mengunjungi profil saya! ✨</p>
+<p align="center">✨ Thank you for visiting my profile! ✨</p>
