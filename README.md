@@ -13,17 +13,24 @@
 
 ## 👨‍💻 About Me
 
-<!--gif frieren-->
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" alt="Frieren Anime Banner" width="25%" />
-</p>
+## 👨‍💻 About Me
 
-
-- 🔭 Currently focused on: **Lamongan Specialty Souvenir Website**  
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      
+- 🔭 Currently focused on: **Website Oleh Oleh lamongan**  
 - 🌱 Currently learning: `React`, `Tailwind CSS`, `PHP`, and `PostgreSQL`  
 - 💬 Ask me anything about programming, I'm open to discussions!  
 - 📫 Email: `fitordf@gmail.com`  
 - ⚡ Fun fact: My curiosity never stops — I want to know everything!
+
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" width="120px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
