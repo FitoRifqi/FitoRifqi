@@ -17,7 +17,7 @@
 - 🌱 Sedang belajar: `React`, `Tailwind CSS`, `PHP`, dan `PostgreSQL`  
 - 💬 Tanyakan apa saja tentang pemrograman, saya terbuka untuk diskusi!  
 - 📫 Email: `fitordf@gmail.com`  
-- ⚡ Fun fact: Saya suka memvisualisasikan data dan membuat sistem admin rapi 😎  
+- ⚡ Fun fact: Rasa ingin tahu saya tidak bisa berhenti, saya ingin tahu semua hal!
 
 ---
 
