@@ -13,24 +13,25 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 <table>
   <tr>
-    <td valign="top" width="70%">
-      
-- 🔭 Currently focused on: **Website Oleh Oleh lamongan**  
-- 🌱 Currently learning: `React`, `Tailwind CSS`, `PHP`, and `PostgreSQL`  
-- 💬 Ask me anything about programming, I'm open to discussions!  
-- 📫 Email: `fitordf@gmail.com`  
-- ⚡ Fun fact: My curiosity never stops — I want to know everything!
+    <td valign="top" width="65%">
+
+<ul>
+  <li>🔭 <strong>Currently focused on:</strong> Lamongan Specialty Souvenir Website</li>
+  <li>🌱 <strong>Currently learning:</strong> <code>React</code>, <code>Tailwind CSS</code>, <code>PHP</code>, and <code>PostgreSQL</code></li>
+  <li>💬 <strong>Ask me anything</strong> about programming — I'm open to discussions!</li>
+  <li>📫 <strong>Email:</strong> <code>fitordf@gmail.com</code></li>
+  <li>⚡ <strong>Fun fact:</strong> My curiosity never stops — I want to know everything!</li>
+</ul>
 
     </td>
-    <td align="center" width="30%">
-      <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" width="120px" />
+    <td align="center" width="35%">
+      <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" width="180px" alt="Frieren GIF" />
     </td>
   </tr>
 </table>
+
 
 ---
 
