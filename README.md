@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="80%">
       
 - 🔭 Currently focused on: **Lamongan Specialty Souvenir Website**  
 - 🌱 Currently learning: `React`, `Tailwind CSS`, `PHP`, and `PostgreSQL`  
@@ -24,7 +24,7 @@
 - ⚡ Fun fact: My curiosity never stops — I want to know everything!
 
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="50%">
       <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" width="120px" />
     </td>
   </tr>
