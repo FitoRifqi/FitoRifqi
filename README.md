@@ -61,7 +61,7 @@
 ## 🤝 Terhubung dengan Saya
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fitorifqi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fito-rifqi-a904a933b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fitorifqi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/FitoRifqi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
