@@ -1,9 +1,6 @@
 <!--gif frieren-->
 <p align="center">
-  <img src="<p align="center">
-  <img src="https://media.tenor.com/_WZmsgc3FEIAAAAd/frieren-sousou-no-frieren.gif" alt="Frieren Anime Banner" style="max-width:100%; height:auto;" />
-</p>
-" alt="Frieren Anime Banner" width="100%" />
+  <img src="https://media.tenor.com/images/7ad47e6dcb8a9d9e4ee8b8cc65c45ca9/tenor.gif" alt="Frieren Banner" style="width:100%; max-height:300px;" />
 </p>
 
 
