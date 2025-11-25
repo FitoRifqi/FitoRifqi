@@ -23,7 +23,7 @@
         </ul>
       </td>
       <td align="center" width="35%" style="padding: 15px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91em54anp5MHozMzVxZXI5eW54ZDV5MzVxZXI5eW54ZDV5MzVxZXI5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHyYsq72XBXJS/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 0px 10px rgba(167,244,50,0.5);" alt="Coding GIF" />
+        <img src="https://github.com/user-attachments/assets/f87dc8c5-bcff-4503-a3dc-de3234d0addb" width="100%" style="border-radius: 12px; box-shadow: 0px 0px 10px rgba(167,244,50,0.5);" alt="Coding GIF" />
       </td>
     </tr>
   </table>
