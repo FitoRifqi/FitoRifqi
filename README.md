@@ -23,7 +23,7 @@
         </ul>
       </td>
       <td align="center" width="35%" style="padding: 15px;">
-        <img src="https://media.giphy.com/media/LHyYsq72XBXJS/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 0px 10px rgba(167,244,50,0.5);" alt="Coding GIF" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91em54anp5MHozMzVxZXI5eW54ZDV5MzVxZXI5eW54ZDV5MzVxZXI5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHyYsq72XBXJS/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 0px 10px rgba(167,244,50,0.5);" alt="Coding GIF" />
       </td>
     </tr>
   </table>
@@ -42,9 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=FitoRifqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A7F432&icon_color=A7F432&text_color=ffffff" height="165" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FitoRifqi&hide_border=true&background=0D1117&ring=A7F432&fire=A7F432&currStreakLabel=A7F432&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FitoRifqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A7F432&icon_color=A7F432&text_color=ffffff" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=FitoRifqi&hide_border=true&background=0D1117&ring=A7F432&fire=A7F432&currStreakLabel=A7F432&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" height="165" alt="GitHub Streak" />
 </p>
 
 ---
@@ -52,7 +51,7 @@
 ## 🏷️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=FitoRifqi&layout=compact&bg_color=0D1117&title_color=A7F432&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitoRifqi&layout=compact&bg_color=0D1117&title_color=A7F432&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -94,3 +93,5 @@
 </p>
 
 <p align="center">⚡ Thanks for visiting my profile — Stay inspired & keep coding! ⚡</p>
+
+kok code dari github stats dan most used language saya gabisa ya ngebug gambarnya gaada
