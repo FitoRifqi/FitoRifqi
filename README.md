@@ -93,5 +93,3 @@
 </p>
 
 <p align="center">⚡ Thanks for visiting my profile — Stay inspired & keep coding! ⚡</p>
-
-kok code dari github stats dan most used language saya gabisa ya ngebug gambarnya gaada
