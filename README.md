@@ -39,20 +39,6 @@
 
 ---
 
-## 🏷️ Most Used Languages
-
-<p align="center">
-  <img src="https://github.com/FitoRifqi/FitoRifqi/blob/main/languages-stats.svg" alt="Most Used Languages" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Stats" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -66,6 +52,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Most Commit Language" />
   <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/3-stats.svg" alt="Stats Card" />
+</p>
+
+---
+
+## 🏷️ Most Used Languages
+
+<p align="center">
+  <img src="https://github.com/FitoRifqi/FitoRifqi/blob/main/languages-stats.svg" alt="Most Used Languages" />
 </p>
 
 ---
