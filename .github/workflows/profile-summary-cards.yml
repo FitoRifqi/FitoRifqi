@@ -1,17 +1,16 @@
-name: GitHub-Profile-Summary-Cards
+name: Update Profile Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Jalan otomatis tiap jam 7 pagi WIB
-  workflow_dispatch: # Supaya bisa di-klik manual
+    - cron: "0 0 * * *" # Jalan tiap jam 7 pagi WIB
+  workflow_dispatch:
 
 jobs:
-  build:
+  # Job 1: Summary Cards (Yang sudah kamu punya)
+  generate-cards:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -19,4 +18,27 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: dark # Bisa diganti: solarized_dark, nord_dark, dll.
+          THEME: dark
+
+  # Job 2: Metrics Language (Yang ada persennya)
+  generate-languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }} # Mengambil token yang tadi dibuat
+          user: FitoRifqi
+          template: classic
+          base: ""
+          config_timezone: Asia/Jakarta
+          filename: languages-stats.svg # Nama file output
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_details: percentage # INI YANG MENAMPILKAN PERSEN
