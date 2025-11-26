@@ -22,8 +22,8 @@
           <li>⚡ <strong>Fun fact:</strong> My curiosity never stops — I always love learning something new!</li>
         </ul>
       </td>
-      <td align="center" width="50%" style="padding: 20px;">
-        <img src="https://github.com/user-attachments/assets/67ca4b7a-3b75-44a7-9fcd-2465625b66f3" width="75%" style="border-radius: 12px; box-shadow: 0px 0px 10px rgba(167,244,50,0.5);" alt="Coding GIF" />
+      <td align="center" width="35%" style="padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/67ca4b7a-3b75-44a7-9fcd-2465625b66f3" width="80%" style="border-radius: 12px; box-shadow: 0px 0px 10px rgba(167,244,50,0.5);" alt="Coding GIF" />
       </td>
     </tr>
   </table>
