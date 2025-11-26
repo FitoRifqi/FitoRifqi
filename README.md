@@ -45,17 +45,14 @@
   <img src="https://streak-stats.demolab.com?user=FitoRifqi&hide_border=true&background=0D1117&ring=A7F432&fire=A7F432&currStreakLabel=A7F432&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" height="165" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
+</p>
 
-## 📊 GitHub Stats & Languages
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/FitoRifqi?template=classic&base=header,repositories,metadata&config.timezone=Asia%2FJakarta&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=1&style=classic&theme=dark" alt="Fito's Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://metrics.lecoq.io/FitoRifqi?template=classic&base=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%&style=classic&theme=dark" alt="Fito's Top Languages" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/3-stats.svg" alt="Stats Card" />
+</p>
 
 ---
 
