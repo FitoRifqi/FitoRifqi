@@ -39,6 +39,20 @@
 
 ---
 
+## 🏷️ Most Used Languages
+
+<p align="center">
+  <img src="https://github.com/FitoRifqi/FitoRifqi/blob/main/languages-stats.svg" alt="Most Used Languages" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Stats" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
