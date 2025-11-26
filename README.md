@@ -42,17 +42,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FitoRifqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A7F432&icon_color=A7F432&text_color=ffffff" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=FitoRifqi&hide_border=true&background=0D1117&ring=A7F432&fire=A7F432&currStreakLabel=A7F432&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" height="165" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🏷️ Most Used Languages
+## 📊 GitHub Stats & Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitoRifqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=A7F432&text_color=ffffff&langs_count=8" height="165" alt="Most Used Languages" />
-</p>
+<div align="center">
+  <img src="https://metrics.lecoq.io/FitoRifqi?template=classic&base=header,repositories,metadata&config.timezone=Asia%2FJakarta&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=1&style=classic&theme=dark" alt="Fito's Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://metrics.lecoq.io/FitoRifqi?template=classic&base=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%&style=classic&theme=dark" alt="Fito's Top Languages" />
+</div>
 
 ---
 
