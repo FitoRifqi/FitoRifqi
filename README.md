@@ -42,16 +42,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/3-stats.svg" alt="Stats Card" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=FitoRifqi&hide_border=true&background=0D1117&ring=A7F432&fire=A7F432&currStreakLabel=A7F432&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="https://raw.githubusercontent.com/FitoRifqi/FitoRifqi/main/profile-summary-card-output/dark/3-stats.svg" alt="Stats Card" />
 </p>
 
 ---
