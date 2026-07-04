@@ -93,13 +93,7 @@
 
 ---
 
-## GitHub Trophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FitoRifqi&theme=darkhub&margin-w=10&no-frame=true&column=6" alt="GitHub Trophy" />
-</p>
-
----
 
 ## Hubungi Saya
 
