@@ -60,12 +60,12 @@
 
 ## Yang Sedang Saya Kembangkan
 
-| Area               | Yang Saya Kerjakan                                                     | Teknologi              |
-| :----------------- | :--------------------------------------------------------------------- | :--------------------- |
-| JavaLan Messenger  | Aplikasi messenger sebagai project utama untuk melatih logika aplikasi | Java                   |
-| Web Frontend       | Membuat tampilan web yang rapi, responsive, dan mudah digunakan        | React, Tailwind CSS    |
-| Backend & Database | Belajar alur data, autentikasi, query, dan penyimpanan data            | PHP, PostgreSQL, MySQL |
-| Mobile App         | Eksplorasi aplikasi mobile lintas platform                             | Flutter, Dart          |
+| Area / Project | Deskripsi | Teknologi |
+| :--- | :--- | :--- |
+| **SkillBantuin (Mobile App)** | Aplikasi *micro-volunteering* berbasis skill dengan fitur chat, pembayaran, dan rating | Flutter, Dart |
+| **Music IoT Visualizer** | Dashboard Arduino & web terhubung ke Apple Music dengan *audio visualizer* dan monitor sistem | HTML, JS, C++ |
+| **Odoo Tracking** | Eksplorasi modul tracking & manajemen sistem *enterprise* (ERP) | Odoo, JavaScript |
+| **JavaLan Messenger** | Project fundamental aplikasi *messenger* untuk melatih logika pemrograman | Java |
 
 ---
 
