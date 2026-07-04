@@ -38,7 +38,7 @@
           <li><strong>Sedang belajar:</strong> <code>React</code>, <code>Tailwind CSS</code>, <code>PHP</code>, <code>PostgreSQL</code></li>
           <li><strong>Minat:</strong> web development, backend sederhana, mobile app, dan UI yang nyaman dipakai</li>
           <li><strong>Gaya belajar:</strong> belajar sambil bikin project, mencoba hal baru, lalu memperbaiki sedikit demi sedikit</li>
-          <li><strong>Email:</strong> <code>fitorifqi@gmail.com</code></li>
+          <li><strong>Email:</strong> <code>fitordf@gmail.com</code></li>
         </ul>
       </td>
       <td align="center" width="35%">
@@ -107,7 +107,7 @@
   <a href="https://www.linkedin.com/in/fito-rifqi-a904a933b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=0B1120" />
   </a>
-  <a href="mailto:fitorifqi@gmail.com">
+  <a href="mailto:fitordf@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Gmail-15803D?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/FitoRifqi" target="_blank">
