@@ -34,8 +34,8 @@
       <td valign="top" width="65%">
         <ul>
           <li><strong>Nama:</strong> Fito Rifqi</li>
-          <li><strong>Fokus sekarang:</strong> membangun dan mengembangkan <strong>JavaLan Messenger</strong></li>
-          <li><strong>Sedang belajar:</strong> <code>React</code>, <code>Tailwind CSS</code>, <code>PHP</code>, <code>PostgreSQL</code></li>
+          <li><strong>Fokus sekarang:</strong> membangun aplikasi <strong>SkillBantuin</strong> dan <strong>JavaLan Messenger</strong></li>
+          <li><strong>Sedang belajar:</strong> <code>Flutter</code>, <code>Dart</code>, <code>IoT (Arduino)</code>, <code>Odoo ERP</code></li>
           <li><strong>Minat:</strong> web development, backend sederhana, mobile app, dan UI yang nyaman dipakai</li>
           <li><strong>Gaya belajar:</strong> belajar sambil bikin project, mencoba hal baru, lalu memperbaiki sedikit demi sedikit</li>
           <li><strong>Email:</strong> <code>fitordf@gmail.com</code></li>
@@ -53,7 +53,7 @@
 ## Tech Stack Saya
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,flutter,dart,react,tailwind,mysql,postgresql,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,html,css,js,cpp,arduino,mysql,postgresql,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
