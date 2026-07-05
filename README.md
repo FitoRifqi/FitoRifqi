@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:166534,100:22C55E&height=220&section=header&text=Fito%20Rifqi&fontColor=ffffff&fontSize=50&fontAlignY=34&desc=Web%20Developer%20in%20Progress%20|%20Tech%20Explorer%20|%20Lifelong%20Learner&descAlignY=58&descAlign=50&descFontColor=A7F3D0" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:166534,100:22C55E&height=220&section=header&text=Fito%20Rifqi%20Dwi%20Fatoni&fontColor=ffffff&fontSize=50&fontAlignY=34&desc=Mobile%20%26%20Web%20Developer%20|%20IoT%20Explorer%20|%20Lifelong%20Learner&descAlignY=58&descAlign=50&descFontColor=A7F3D0" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=720&lines=Halo,+saya+Fito+Rifqi;Saya+suka+membangun+project+yang+berguna;Lagi+belajar+React,+Tailwind,+PHP,+dan+PostgreSQL;Terbuka+untuk+kolaborasi+dan+ide+baru" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=720&lines=Halo,+saya+Fito+Rifqi+Dwi+Fatoni;Saya+suka+membangun+project+yang+berguna;Sedang+fokus+eksplorasi+Mobile+App+dan+IoT;Terbuka+untuk+kolaborasi+dan+ide+baru" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-JavaLan%20Messenger-166534?style=for-the-badge&logo=java&logoColor=white" alt="JavaLan Messenger" />
-  <img src="https://img.shields.io/badge/Learning-Flutter%20%2B%20Laravel-22C55E?style=for-the-badge&logo=react&logoColor=0B1120" alt="Flutter and Laravel" />
-  <img src="https://img.shields.io/badge/Database-Oracle-15803D?style=for-the-badge&logo=postgresql&logoColor=white" alt="Learning Oracle" />
+  <img src="https://img.shields.io/badge/Focus-SkillBantuin%20App-166534?style=for-the-badge&logo=flutter&logoColor=white" alt="SkillBantuin App" />
+  <img src="https://img.shields.io/badge/Building-JavaLan%20Messenger-22C55E?style=for-the-badge&logo=java&logoColor=0B1120" alt="JavaLan Messenger" />
+  <img src="https://img.shields.io/badge/Exploring-IoT%20%26%20Arduino-15803D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT & Arduino" />
 </p>
 
 ---
